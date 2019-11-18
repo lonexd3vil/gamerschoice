@@ -1,6 +1,60 @@
-@media only screen and (max-width:480px) {
+@media only screen and (max-width:767px) {
 	.gtav_heading img {
-		height: 30%;
-		width: 30%:
+		height: 35%;
+		width: 35%;
+		margin-left: 30%;
+		margin-top: 5%;
+	}
+	.head_subhead {
+		font-size: 20px;
+		padding-top: 2%;
+		padding-bottom: 2%;
+		text-align: center;
+	}
+	.start_overview {
+		font-size: 15px;
+		text-align: center;
+		padding-left: 10px;
+		padding-right: 10px;
+		text-align: center;
+	}
+	.gameplay_persp {
+		font-size: 20px;
+		text-align: center;
+	}
+	.features {
+		text-align: center;
+		font-size: 21px;
+		padding-bottom: 2%;
+		padding-top: 2%;
+	}
+	.feat_2 {
+		text-align: left;
+	}
+	.req_sec {
+		font-size: 22px;
+		text-align: center;
+		padding-top: 2%;
+		padding-bottom: 2%;
+	}
+	.req_sec_1 {
+		font-size: 15px;
+		text-align: center;
+		margin-bottom: 3%;
+	}
+	.min_req_start {
+		font-size: 17px;
+		text-align: left;
+		margin-right: 3%;
+	}
+	.down_sec_content {
+		font-size: 13px;
+		text-align: center;
+	}
+	.download_sec {
+		margin-top: 5%;
+	}
+	.final_download {
+		margin-left: 26%;
 	}
 }
