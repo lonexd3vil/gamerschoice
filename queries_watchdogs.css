@@ -1,0 +1,50 @@
+@media only screen and (max-width: 500px) {
+	.page_head img {
+		height: 50%;
+		width: 50%;
+		margin-left: 21%;
+		padding-top: 2%;
+	}
+	.page_head {
+		margin-bottom: 2%;
+		font-size: 18px;
+	}
+	.overview_class_watch_dogs {
+		font-size: 18px;
+		text-align: center;
+		padding-bottom: 3%;
+	}
+	.content_in {
+		font-size: 13px;
+		text-align: center;
+	}
+	.req_sec_head {
+		font-size: 23px;
+		margin-bottom: 7%;
+		text-align: center;
+		margin-top: 5%;
+	}
+	.req_start {
+		text-align: center;
+		font-size: 12px;
+		margin-top: 5%;
+	}
+	.min_req_start {
+		font-size: 13px;
+	}
+	.recom_start {
+		font-size: 13px;
+	}
+	.download_sec {
+		font-size: 35px;
+	}
+	.down_sec_content {
+		font-size: 14px;
+		text-align: center;
+		padding-left: 6px;
+		padding-right: 6px;
+	}
+	.final_download {
+		margin-left: 25%;
+	}
+}

@@ -1,0 +1,78 @@
+* {
+	padding: 0px;
+  	margin: 0px;
+}
+body {
+	background: black;
+}
+.starting_heading {
+	font-family: 'Noto Sans', sans-serif;
+	padding-left: 20px;
+	padding-top: 40px;
+	font-weight: 500;
+	font-size: 20px;
+	text-align: center;
+	color: white;
+}
+.wwe2k20cover img {
+	height: 30%;
+	width: 30%;
+	padding-top: 100px;
+	margin-left: 34%;
+}
+.wwe2k10_heading {
+	margin-left: 45%;
+	margin-top: 1%;
+	font-size: 20px;
+	font-family: Roboto;
+	color: white;
+	font-family: 'Montserrat', sans-serif;
+}
+.gtavcover img {
+	height: 30%;
+	width: 30%; 
+}
+.gtav_head {
+	color: white;
+	padding-top: 1%;
+	font-size: 20px;
+	margin-left: 47%;
+	margin-bottom: 2%;
+	font-family: 'Montserrat', sans-serif;
+}
+.watch_dogs_head {
+	color: white;
+	padding-top: 1%;
+	font-size: 20px;
+	margin-left: 38%;
+	margin-bottom: 2%;
+	font-family: 'Montserrat', sans-serif;
+}
+.wwe_pic_subhead {
+	color: white;
+	text-align: center;
+	font-size: 15px;
+	font-family: 'Raleway', sans-serif;
+	margin-top: 2%;
+	margin-right: 3%;
+	margin-left: 3%;
+}
+.gtav_pic_subhead {
+	color: white;
+	text-align: center;
+	font-size: 15px;
+	font-family: 'Raleway', sans-serif;
+	margin-top: 2%;
+	margin-left: 3%;
+	margin-right: 3%;
+}
+.watchdogs_subhead {
+	color: white;
+	text-align: center;
+	font-size: 15px;
+	font-family: 'Raleway', sans-serif;
+	margin-top: 2%;
+	margin-left: 3%;
+	margin-right: 3%;
+	margin-bottom: 3%;
+}
