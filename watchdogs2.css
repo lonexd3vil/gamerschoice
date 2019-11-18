@@ -46,33 +46,6 @@ body {
 	padding-left: 10px;
 	padding-right: 10px;
 }
-.features {
-	color: white;
-	text-transform: uppercase;
-	font-family: 'Raleway', sans-serif;
-	letter-spacing: 0.4px;
-	margin-bottom: 3%;
-	margin-left: 1%;
-	font-size: 20px;
-}
-.features_start {
-	color: white;
-	text-transform: uppercase;
-	font-family: 'Quicksand', sans-serif;
-	letter-spacing: 0.5px;
-	text-align: center;
-	margin-bottom: 2%;
-	font-size: 15px;
-}
-.ul_points {
-	color: white;
-	text-transform: uppercase;
-	font-family: 'Raleway', sans-serif;
-	margin-left: 20%;
-	font-weight: lighter;
-	margin-bottom: 3%;
-	font-size: 15px;
-}
 .sys_req_sec {
 	color: white;
 	text-transform: uppercase;

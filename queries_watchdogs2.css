@@ -18,21 +18,6 @@
 		font-size: 13px;
 		text-align: center;
 	}
-	.features {
-		font-size: 17px;
-		text-align: center;
-	}
-	.features_start {
-		font-size: 15px;
-		padding-bottom: 5%;
-	}
-	.ul_points {
-		font-size: 12px;
-		text-align: left;
-		margin-left: 8%;
-		padding-left: 3px;
-		padding-right: 3px;
-	}
 	.sys_req_sec {
 		font-size: 17px;
 		text-align: center;
