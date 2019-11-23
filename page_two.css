@@ -60,3 +60,26 @@ body {
 	margin-right: 3%;
 	margin-left: 3%;
 }
+.fifa20cover img {
+	height: 30%;
+	width: 30%;
+	padding-top: 100px;
+	margin-left: 34%;
+}
+.fifa20_heading {
+	margin-left: 47%;
+	margin-top: 1%;
+	font-size: 20px;
+	font-family: Roboto;
+	color: white;
+	font-family: 'Montserrat', sans-serif;
+}
+.fifa_pic_subhead {
+	color: white;
+	text-align: center;
+	font-size: 15px;
+	font-family: 'Raleway', sans-serif;
+	margin-top: 1%;
+	margin-right: 3%;
+	margin-left: 3%;
+}

@@ -21,4 +21,18 @@
 		width: 50%;
 		margin-left: 23%;
 	}
+	.fifa20_heading {
+		font-size: 20px;
+		margin-top: 5%;
+		margin-left: 41%;
+		margin-bottom: 2%;
+	}
+	.fifa20cover img {
+		height: 50%;
+		width: 50%;
+		margin-left: 23%;
+	}
+	.fifa_pic_subhead {
+		font-size: 15px;
+	}
 }
