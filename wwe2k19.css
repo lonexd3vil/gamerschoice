@@ -1,0 +1,124 @@
+* {
+	padding: 0px;
+  	margin: 0px;
+}
+body {
+	background: black;
+}
+.starting_heading {
+	font-family: 'Noto Sans', sans-serif;
+	padding-left: 20px;
+	padding-top: 40px;
+	font-weight: 500;
+	font-size: 20px;
+	text-align: center;
+	color: white;
+}
+.wwe2k19_head {
+	color: white;
+	padding-top: 5%;
+	font-weight: lighter;
+	font-family: 'Montserrat', sans-serif;
+	margin-left: 3%;
+	font-size: 20px;
+} 
+.wwe2k19_heading img {
+	height: 20%;
+	width: 20%;
+	margin-left: 40%;
+	margin-top: 3%;
+	margin-bottom: 3%;
+}
+..wwe_content_head {
+	color: white;
+	font-family: 'Raleway', sans-serif;
+	margin-bottom: 3%;
+	margin-left: 1%;
+	font-size: 25px;
+}
+.content {
+	color: white;
+	text-align: center;
+	text-transform: uppercase;
+	font-family: 'Quicksand', sans-serif;
+	letter-spacing: 0.5px;
+	margin-bottom: 3%;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.requirments {
+	color: white;
+	font-family: 'Raleway', sans-serif;
+	margin-bottom: 3%;
+	margin-left: 1%;
+	font-size: 25px;
+}
+.requirments_start {
+	color: white;
+	text-align: center;
+	text-transform: uppercase;
+	font-family: 'Quicksand', sans-serif;
+	margin-bottom: 3%;
+}
+.min_req_head {
+	color: white;
+	margin-left: 5%;
+	text-transform: uppercase;
+	font-family: 'Raleway', sans-serif;
+	margin-bottom: 3%;
+}
+.min_req_start {
+	color: white;
+	margin-top: 3%;
+	margin-left: 20%;
+}
+.recom_req_head {
+	color: white;
+	margin-left: 5%;
+	text-transform: uppercase;
+	font-family: 'Raleway', sans-serif;
+	margin-bottom: 3%;
+}
+.recom_req_start {
+	color: white;
+	margin-top: 3%;
+	margin-left: 20%;
+}
+.download_sec {
+	color: white;
+	font-family: 'Bebas Neue', cursive;
+	font-weight: 400;
+	font-size: 40px;
+	text-align: center;
+	margin-bottom: 3%;
+}
+.down_sec_content {
+	color: white;
+	text-transform: uppercase;
+	font-family: 'Raleway', sans-serif;
+	text-align: center;
+	font-weight: lighter;
+	margin-bottom: 2%;
+}
+.final_download {
+	color: white;
+	margin-left: 40%;
+	margin-bottom: 2%;
+	margin-top: 2%;
+}
+.final_download a {
+	position: relative;
+  	display: inline-block;
+  	padding: 15px 30px;
+ 	text-transform: uppercase;
+    text-decoration: none;
+    font-size: 20px;
+    overflow: hidden;
+    transition: 0.2s;
+    color: yellow;
+}
+.final_download a:hover {
+	color: white;
+  	background: teal;
+  	box-shadow: 0 0 10px #2196f3, 0 0 40px #2196f3, 0 0 80px #2196f3,
+}

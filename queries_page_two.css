@@ -1,0 +1,24 @@
+@media only screen and (max-width: 480px) {
+	.wwe2k19_heading {
+		font-size: 20px;
+		margin-top: 5%;
+		margin-left: 34%;
+		margin-bottom: 2%;
+	}
+	.wwe2k19cover img {
+		height: 50%;
+		width: 50%;
+		margin-left: 23%;
+	}
+	.wwe2k17_heading {
+		font-size: 20px;
+		margin-top: 5%;
+		margin-left: 34%;
+		margin-bottom: 2%;
+	}
+	.wwe2k17cover img {
+		height: 50%;
+		width: 50%;
+		margin-left: 23%;
+	}
+}

@@ -1,0 +1,66 @@
+@media only screen and (max-width: 480px) {
+	.wwe2k17_head {
+		padding-top: 7%;
+		padding-bottom: 5%;
+	}
+	.wwe2k17_heading img {
+		height: 40%;
+		width: 40%;
+		margin-left: 30%;
+	}
+	.wwe_content_head {
+		font-size: 20px;
+		text-align: center;
+		padding-top: 3%;	
+		padding-bottom: 3%;	
+	}
+	.content {
+		font-size: 13px;
+		text-align: center;
+		padding-left: 5px;
+		padding-right: 5px;
+		margin-top: 3%;
+	}
+	.requirments {
+		font-size: 20px;
+		text-align: center;
+		padding-bottom: 3%;
+		padding-top: 3%;
+	}
+	.requirments_start {
+		font-size: 15px;
+		padding-left: 5px;
+		padding-right: 5px;
+		padding-bottom: 8px;
+	}
+	.min_req_head {
+		text-align: center;
+		font-size: 20px;
+	}
+	.min_req_start {
+		text-align: left;
+		font-size: 15px;
+		padding-top: 5px;
+	}
+	.recom_req_head {
+		text-align: center;
+		font-size: 18px;
+	}
+	.recom_req_start {
+		text-align: left;
+		font-size: 15px;
+		padding-top: 5px;
+	}
+	.down_sec_content {
+		text-align: center;
+		font-size: 15px;
+		padding-left: 5px;
+		padding-right: 5px;
+	}
+	.final_download {
+		margin-left: 25%;
+		margin-top: 1%;
+		margin-bottom: 2%;
+	}
+}
+}
