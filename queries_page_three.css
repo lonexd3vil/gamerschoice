@@ -21,4 +21,41 @@
 		margin-left: 5%;
 		margin-bottom: 2%;
 	}
+	.nfs-mostwanted-newerversion img {
+		height: 50%;
+		width: 50%;
+		margin-left: 24%;
+	}
+	.nsf-mostwanted_heading {
+		font-size: 20px;
+		margin-top: 5%;
+		margin-left: 6%;
+		margin-bottom: 2%;
+	}
+	.nfs_hotpursuitcover img {
+		height: 50%;
+		width: 50%;
+		margin-left: 24%;
+	}
+	.nfs_hotpursuit_heading {
+		font-size: 20px;
+		margin-top: 5%;
+		margin-left: 14%;
+		margin-bottom: 2%;
+	}
+	.nfs_rivalscover img {
+		height: 50%;
+		width: 50%;
+		margin-left: 24%;
+	}
+	.nfs_rivals_heading {
+		font-size: 20px;
+		margin-top: 5%;
+		margin-left: 36%;
+		margin-bottom: 2%;
+	}
+	.page_nav {
+		margin-left: 35%;
+		margin-bottom: 5%;
+	}
 }

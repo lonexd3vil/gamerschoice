@@ -47,7 +47,6 @@ body {
 	margin-left: 34%;
 	margin-top: 1%;
 	font-size: 20px;
-	font-family: Roboto;
 	color: white;
 	font-family: 'Montserrat', sans-serif;
 }
@@ -59,4 +58,119 @@ body {
 	margin-top: 2%;
 	margin-right: 3%;
 	margin-left: 3%;
+}
+.nfs-mostwanted-newerversion img {
+	height: 30%;
+	width: 30%;
+	padding-top: 100px;
+	margin-left: 34%;
+}
+.nsf-mostwanted_heading {
+	margin-left: 34.5%;
+	margin-top: 1%;
+	font-size: 20px;
+	color: white;
+	font-family: 'Montserrat', sans-serif;
+}
+.nfs-mostwanted_subhead {
+	color: white;
+	text-align: center;
+	font-size: 15px;
+	font-family: 'Raleway', sans-serif;
+	margin-top: 2%;
+	margin-right: 3%;
+	margin-left: 3%;
+}
+.nfs_hotpursuitcover img {
+	height: 30%;
+	width: 30%;
+	padding-top: 100px;
+	margin-left: 34%;
+}
+.nfs_hotpursuit_heading {
+	margin-left: 34.5%;
+	margin-top: 1%;
+	font-size: 20px;
+	color: white;
+	font-family: 'Montserrat', sans-serif;
+}
+.nfs_hotpursuit_subhead {
+	color: white;
+	text-align: center;
+	font-size: 15px;
+	font-family: 'Raleway', sans-serif;
+	margin-top: 2%;
+	margin-right: 3%;
+	margin-left: 3%;
+}
+.nfs_rivalscover img {
+	height: 30%;
+	width: 30%;
+	padding-top: 100px;
+	margin-left: 34%;
+}
+.nfs_rivals_heading {
+	margin-left: 45%;
+	margin-top: 1%;
+	font-size: 20px;
+	color: white;
+	font-family: 'Montserrat', sans-serif;
+}
+.nfs_rivals_subheading {
+	color: white;
+	text-align: center;
+	font-size: 15px;
+	font-family: 'Raleway', sans-serif;
+	margin-top: 2%;
+	margin-right: 3%;
+	margin-left: 3%;
+}
+.page_nav {
+	display: flex;
+	align-items: center;
+	text-align: center;
+	margin-bottom: 3%;
+	margin-top: 3%;
+	margin-left: 45%;
+}
+.page_one {
+	color: white;
+	background: green;
+	z-index: 1;
+	position: relative;
+  	display: inline-block;
+  	padding: 5px 15px;
+ 	text-transform: uppercase;
+    text-decoration: none;
+    font-size: 20px;
+    overflow: hidden;
+    border-radius: 60px;
+}
+.page_two {
+	color: white;
+	background: green;
+	z-index: 1;
+	position: relative;
+  	display: inline-block;
+  	padding: 5px 15px;
+ 	text-transform: uppercase;
+    text-decoration: none;
+    font-size: 20px;
+    overflow: hidden;
+    margin-left: 2%;
+    border-radius: 60px;
+}
+.page_three {
+	color: white;
+	background: green;
+	z-index: 1;
+	position: relative;
+  	display: inline-block;
+  	padding: 5px 15px;
+ 	text-transform: uppercase;
+    text-decoration: none;
+    font-size: 20px;
+    overflow: hidden;
+    margin-left: 2%;
+    border-radius: 60px;
 }
