@@ -134,7 +134,7 @@ body {
 	text-align: center;
 	margin-bottom: 3%;
 	margin-top: 3%;
-	margin-left: 45%;
+	margin-left: 42%;
 }
 .page_one {
 	color: white;
@@ -164,6 +164,20 @@ body {
     border-radius: 60px;
 }
 .page_three {
+	color: white;
+	background: green;
+	z-index: 1;
+	position: relative;
+  	display: inline-block;
+  	padding: 5px 15px;
+ 	text-transform: uppercase;
+    text-decoration: none;
+    font-size: 20px;
+    overflow: hidden;
+    margin-left: 2%;
+    border-radius: 60px;
+}
+.page_four {
 	color: white;
 	background: green;
 	z-index: 1;
