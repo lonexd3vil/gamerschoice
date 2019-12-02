@@ -58,6 +58,28 @@ body {
 	margin-right: 3%;
 	margin-left: 3%;
 }
+.forza_horizon_seven img {
+	height: 30%;
+	width: 30%;
+	padding-top: 100px;
+	margin-left: 34%;
+}
+.forza_seven_heading {
+	margin-left: 44%;
+	margin-top: 1%;
+	font-size: 20px;
+	color: white;
+	font-family: 'Montserrat', sans-serif;
+}
+.forza_seven_subhead {
+	color: white;
+	text-align: center;
+	font-size: 15px;
+	font-family: 'Raleway', sans-serif;
+	margin-top: 2%;
+	margin-right: 3%;
+	margin-left: 3%;
+}
 .page_nav {
 	display: flex;
 	align-items: center;
