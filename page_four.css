@@ -80,6 +80,28 @@ body {
 	margin-right: 3%;
 	margin-left: 3%;
 }
+.terminator-resistance img {
+	height: 30%;
+	width: 30%;
+	padding-top: 100px;
+	margin-left: 34%;
+}
+.terminator-resistance_heading {
+	margin-left: 42%;
+	margin-top: 1%;
+	font-size: 20px;
+	color: white;
+	font-family: 'Montserrat', sans-serif;
+}
+.terminator-resistance_subhead {
+	color: white;
+	text-align: center;
+	font-size: 15px;
+	font-family: 'Raleway', sans-serif;
+	margin-top: 2%;
+	margin-right: 3%;
+	margin-left: 3%;
+}
 .page_nav {
 	display: flex;
 	align-items: center;

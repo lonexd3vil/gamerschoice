@@ -1,0 +1,56 @@
+@media only screen and (max-width: 480px) {
+	.page_head {
+		margin-left: 6%;
+		margin-top: 3%;
+	}
+	.img img {
+		height: 40%;
+		width: 40%;
+		margin-left: 30%;
+		margin-top: 5%;
+	}
+	.overview_head {
+		font-size: 18px;
+		text-align: center;
+		margin-top: 3%;
+	}
+	.overview_content {
+		font-size: 13px;
+		text-align: center;
+	}
+	.sys_req_head {
+		font-size: 17px;
+		text-align: center;
+		margin-top: 5%;
+		margin-bottom: 5%;
+	}
+	.sys_req_sub {
+		font-size: 12px;
+		margin-bottom: 4%;
+	}
+	.min_sys_req_head {
+		font-size: 16px;
+	}
+	.min_sys_req_content {
+		font-size: 13px;
+	}
+	.recom_sys_req_head {
+		font-size: 16px;
+	}
+	.recom_sys_req_content {
+		font-size: 13px;
+	}
+	.download_sec {
+		font-size: 35px;
+		padding-top: 2%;
+	}
+	.down_sec_content {
+		font-size: 13px;
+		text-align: center;
+		padding-left: 4px;
+		padding-right: 4px;
+	}
+	.final_download {
+		margin-left: 24%;
+	}
+}
